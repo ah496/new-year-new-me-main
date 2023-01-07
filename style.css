@@ -2,14 +2,12 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
 .text-primary{
     color: #FD6A0A;
-
 }
 
-/* banner styles */
 
+/* banner styles */
 
 .banner{
     display: flex;
@@ -24,18 +22,16 @@
     position: absolute;
     width: 1600px;
     height: 808px;
-    left: 1200px;
+    right: 30px;
     top: 208px;
-   
-
 }
+
 .banner-description{
     position: absolute;
     width: 525px;
     height: 228px;
-    left: 1200px;
+    right: 1100px;
     top: 400px;
-
 }
 
 .btn-primary{
@@ -48,24 +44,22 @@
     border-radius: 5px;
     background: #FD6A0A;
     position: absolute;
-    left: 1200px;
+    right: 1450px;
     top: 500px;
-
 }
 
 /* main */
+
 .main{
     max-width: 940px;
     margin: 0 auto;
 }
-
 .image {
     position: absolute;
     width: 569px;
     height: 723.3px;
     left: 206px;
     top: 939px;
-
 }
 .text{
     position: absolute;
@@ -82,19 +76,16 @@
     background: #1752c0;
     border-radius: 10px;
     padding: 120px 200px;
-
 }
+
 .section-title{
     text-align: center;
     margin-bottom: 30px;
-
-
 }
 
 .section-description{
     color: beige;
     font-size: 18px;
-
 }
 
 /* my plans */
@@ -104,8 +95,6 @@
     text-align: center;
     font-weight: 700;
     font-size: 40px;
-    
-
 }
 
 .my-plans{
@@ -115,8 +104,8 @@
 .skills-container{
     display: flex;
     gap: 40px;
-    
 }
+
 .skill{
     background: #FFFFFF;
     box-shadow: 0px 6px rgba(0, 0, 0, 0.06);
@@ -130,6 +119,7 @@
     margin-top: 30px;
     margin-bottom: 20px;
 }
+
 .skill-description{
     color: #757575;
 }
@@ -164,15 +154,12 @@
     position: absolute;
     left: 600px;
     top: 2960px;
-
- }
-
+}
 .contact{
     display: flex;
     gap: 100px;
     background:#f0ebec;
     padding: 120px 200px;
-
 }
 
 .contact-title{
@@ -182,13 +169,6 @@
     margin-bottom: 40px;
 }
  
-.contact input, textarea{
-    margin-bottom: 24px;
-    border:0;
-    width: 100;
-    padding: 18px 30px;
-}
-
 input{
     height: 64px;
 }
