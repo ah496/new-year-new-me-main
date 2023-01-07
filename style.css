@@ -134,5 +134,36 @@
     color: #757575;
 }
 
- 
+ /* gradient */
+
+ .gradients{
+    display: flex;
+    gap: 40px;
+ }
+
+ .gradient-title{
+    color: #FFFFFF;
+    font-weight: 350;
+    font-size: 35px;
+    margin-bottom: 20px;
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 600px;
+    top: 2850px;
+ }
+
+ .gradient-button{
+    color: #380add;
+    font-size: 20PX;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #e2eaf5ce;
+    position: absolute;
+    left: 600px;
+    top: 2960px;
+
+ }
 
