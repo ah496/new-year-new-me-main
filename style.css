@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary{
+    color: #FD6A0A;
+
+}
+
+/* banner styles */
+
+
+.banner{
+    display: flex;
+    justify-content:space-between;
+    align-self:center;
+    margin: 0 200px;
+}
+.banner-title{
+    font-weight: 350;
+    font-size: 35px;
+    margin-bottom: 20px;
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 1200px;
+    top: 208px;
+   
+
+}
+.banner-description{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 1200px;
+    top: 400px;
+
+}
+
+.btn-primary{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20PX;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6A0A;
+    position: absolute;
+    left: 1200px;
+    top: 500px;
+
+}
+
+/* main */
+
+.image {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+
+}
+.text{
+    position: absolute;
+    width: 439px;
+    height: 408px;
+    left: 1241px;
+    top: 1184px;
+}
+
+    
+ 
+
